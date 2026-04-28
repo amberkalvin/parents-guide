@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">parent\'s guide PG13</string>
+    <string name="title_activity_main">parent\'s guide PG13</string>
+    <string name="package_name">com.parentsguide.pg13</string>
+    <string name="custom_url_scheme">com.parentsguide.pg13</string>
+</resources>
